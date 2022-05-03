@@ -7,6 +7,8 @@ namespace Inheritance
 
         public ElectricalDevice(bool isOn, string brand)
         {
+            IsOn = isOn;
+            Brand = brand;
         }
         public void SwitchOn()
         {
