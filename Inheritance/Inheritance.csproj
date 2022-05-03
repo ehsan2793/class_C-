@@ -46,6 +46,7 @@
         <Compile Include="TV.cs" />
     </ItemGroup>
     <ItemGroup>
+      <Content Include="new diagram.png" />
       <Content Include="readme.md" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

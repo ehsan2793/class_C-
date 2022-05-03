@@ -6,5 +6,4 @@ an opportunity to reuse the code functionality
 and speeds up implementation time. 
 
 
-
-![](../../../new diagram.png)
+![](new%20diagram.png)
