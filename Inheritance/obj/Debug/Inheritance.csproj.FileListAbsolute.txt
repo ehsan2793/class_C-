@@ -1,0 +1,6 @@
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/obj/Debug/Inheritance.csprojAssemblyReference.cache
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/obj/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/obj/Debug/Inheritance.exe
+/Users/ehsan/Desktop/c#practice/Inheritance/Inheritance/obj/Debug/Inheritance.pdb
